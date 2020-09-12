@@ -1,0 +1,31 @@
+div{
+    padding: 10px;
+    width: 50%;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-left: auto;
+}
+
+div p{
+    font-weight: 300;
+    background-color: aqua;
+}
+
+p{
+    background-color:aquamarine;
+    color:cadetblue;
+    margin: 0px;
+    border-top: solid green;
+    border-bottom: solid green;
+}
+
+span{
+    background-color: aquamarine;
+    color:azure;
+}
+
+div{
+    padding: 450px;
+    font-weight: 300;
+}
